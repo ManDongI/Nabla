@@ -1,5 +1,6 @@
-package com.rmpi.nabla;
+package com.rmpi.nabla.test;
 
+import com.rmpi.nabla.Nabla;
 import com.rmpi.nabla.provider.MappedNoiseProvider;
 import com.rmpi.nabla.provider.SimpleSentenceFactory;
 
